@@ -1,0 +1,43 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+.bg-blue{
+    background-color: #C4E2FF;
+}
+.border-dark{
+    border-bottom: #292929 solid 1px;
+}
+.baslik{
+    color: black;
+    font-size: 106px;
+    line-height: 95px;
+    font-weight: 400;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.baslik2{
+    color: black;
+    font-size: 24px;
+    line-height: 24px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.image{
+    margin-top: 73px;
+}
+.logo{
+    margin-left: auto;
+    width: 200px;
+}
+.number{
+    font-weight: 700;
+    line-height: 36px;
+    font-size: 30px;
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+}
+.article-buttons > li {
+    margin-bottom: 5px;
+}
+.border-top-dark{
+    border-top: 1px solid rgba(230, 230, 230, 1);
+   
+}
